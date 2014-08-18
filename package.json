@@ -1,0 +1,26 @@
+{
+  "name": "canvas2blob",
+  "version": "0.1.0",
+  "description": "convert canvas to blob",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "image",
+    "png",
+    "blob",
+    "file"
+  ],
+  "author": "meandave",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meandavejustice/canvas2blob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/meandavejustice/canvas2blob/issues"
+  },
+  "homepage": "https://github.com/meandavejustice/canvas2blob"
+}
