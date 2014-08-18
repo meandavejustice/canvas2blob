@@ -18,4 +18,4 @@ form.append('file', imgBlob, 'waveform.png');
 ```
 
 ## License
-[MIT]()
+[MIT License](https://raw.githubusercontent.com/meandavejustice/canvas2blob/master/LICENSE)
