@@ -2,6 +2,8 @@
 
 Convert canvas to a file blob.
 
+[![NPM](https://nodei.co/npm/canvas2blob.png?downloads=true)](https://npmjs.com/package/canvas2blob)
+
 ## usage
 
 ``` javascript
